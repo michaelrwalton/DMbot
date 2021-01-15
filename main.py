@@ -1,12 +1,7 @@
 import discord
-import ctypes
-import time
-import youtube_dl
-import asyncio
 import settings
 
 from discord.ext import commands
-from datetime import datetime, timedelta
 from music import Music
 from initiative import Initiative
 from models.player import Player
@@ -29,7 +24,7 @@ with open('players.txt', 'r') as players:
 
 @bot.event
 async def on_ready():
-    print('powering up portals online')
+    print('😎powering up portals online😎')
 
 bot.add_cog(Music(bot))
 bot.add_cog(Initiative(bot, all_players))
