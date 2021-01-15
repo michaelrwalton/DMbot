@@ -1,0 +1,5 @@
+- Dockerize
+- Add linting/mypy/etc
+- Add monster objects
+- Add encounter objects
+- Manual initiative entry

@@ -1,4 +1,8 @@
 .vscode/
-assets/generated/
 __pycache__
 .DS_Store
+venv/
+music/*
+assets/*
+players.txt
+local_settings.yml

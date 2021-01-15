@@ -1,3 +1,3 @@
-## Discordbot
+## DMBot
 
-Experiments with a discord bot
+Bot to use when youre DMing.
