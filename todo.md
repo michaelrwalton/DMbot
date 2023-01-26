@@ -3,3 +3,4 @@
 - Add monster objects
 - Add encounter objects
 - Manual initiative entry
+- Sit back five minutes and appreciate the progress
